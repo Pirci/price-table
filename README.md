@@ -1,18 +1,29 @@
 # Responsive Price Table Website
 
 
-Built in mobile first design priority from scratch.
+> Built in mobile first design priority from scratch. A fully responsive web page for desktops, tablets and also mobile devices.
 
-A fully responsive web page for desktops, tablets and also mobile devices.
-
-
+From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
  
+## Live Demo
 
-Please click on the link below to view it.
+Preview:  https://pirci.github.io/price-table/
+
+![price-table](https://media.giphy.com/media/bG2OvU6dazNBuKHr0h/giphy.gif)
 
 
-https://pirci.github.io/price-table/
+## What I Learned:
 
-![screencapture-pirci-github-io-price-table-2021-04-29-14_04_31](https://user-images.githubusercontent.com/43238947/116548002-e8221880-a8f3-11eb-961f-f407cb8e78f7.png)
+- Using CSS Flexbox for the layout of the page
+- How elements get placed, styled, and aligned on the page
+- Organizing code with divs to make items easier to position
+- Using pseudo elements for create clean structure
+- Using media queries for mobile layout
 
+
+## Possible Improvements
+
+- Cleaner code
+- Use more semantic elements
+- Formatting could be improved when viewing on certain devices/browsers
