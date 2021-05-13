@@ -12,7 +12,7 @@ From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-deve
 
 Preview:  https://pirci.github.io/price-table/
 
-![price-table](https://media.giphy.com/media/bG2OvU6dazNBuKHr0h/giphy.gif)
+![price-table](demo.gif)
 
 
 ## What I Learned:
