@@ -1,13 +1,8 @@
 # Responsive Price Table Website
 
-### Udemy the Web Developer Bootcamp project.
-
-
 > Built in mobile first design priority from scratch. A fully responsive web page for desktops, tablets and also mobile devices.
 
-From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
- 
 ## Live Demo
 
 Preview:  https://pirci.github.io/price-table/
